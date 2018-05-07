@@ -1,5 +1,5 @@
 {
-    "name": "ammadeuss/laravel-html-dom-parser",
+    "name": "n_tartan/laravel-parser",
     "description": "Laravel wrapper for the PHP Simple HTML DOM Parser package",
     "keywords": [
         "dom parser",
@@ -15,8 +15,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Ammadeuss Raducan",
-            "email": "raducan@ammadeuss.ro"
+            "name": "Nikolay Tartan",
+            "email": "tartan.nikolay@gmail.com"
         }
     ],
     "autoload": {
